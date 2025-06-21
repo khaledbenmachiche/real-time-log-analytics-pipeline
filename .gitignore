@@ -1,0 +1,7 @@
+venv
+.vscode
+rapport_log_pipeline.tex
+.env
+access.log
+generated_logs.txt
+NASA_access_log_Jul95

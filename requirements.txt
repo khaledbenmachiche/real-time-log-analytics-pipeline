@@ -1,0 +1,24 @@
+# Kafka libraries
+confluent-kafka>=2.3.0
+six>=1.16.0
+
+# Spark (install separately: pip install pyspark==3.5.0)
+# pyspark==3.5.0
+
+# Elasticsearch
+elasticsearch==8.12.1
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Log generation
+faker>=22.0.0
+
+# Additional dependencies
+requests>=2.31.0
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Development and testing
+pytest>=7.4.0
