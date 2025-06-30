@@ -89,7 +89,6 @@ Spark Structured Streaming → Real-time Processing → Elasticsearch → Kibana
 
 - **Docker and Docker Compose** - For infrastructure services
 - **Python 3.8+** - For running the pipeline components
-- **Java 8+** - Required for Apache Spark
 - **At least 4GB RAM** - For running all services
 
 ### 1. Clone the repository
