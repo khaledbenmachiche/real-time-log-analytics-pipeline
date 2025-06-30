@@ -103,9 +103,6 @@ cd <dir>
 ```bash
 # Install all required packages
 pip install -r requirements.txt
-
-# Install PySpark separately (recommended)
-pip install pyspark==3.5.0
 ```
 
 ### 3. Start the infrastructure services
